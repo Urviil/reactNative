@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365608052137",
+    "project_id": "pracdemo-bb377",
+    "storage_bucket": "pracdemo-bb377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365608052137:android:2f7ded4ed9992a22c490b8",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU-VfoWeRU07NmEvvP7HPbZk1A-u11qqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

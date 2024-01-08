@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Agbalumo-Regular.ttf",
+      "sha1": "b0670b6c5fab78a1f8096936516c010a3134aa1b"
+    },
+    {
+      "path": "assets/fonts/Beautiful Humility.ttf",
+      "sha1": "6722f85622370df4b3ed12e98658062833fbbe1c"
+    },
+    {
+      "path": "assets/fonts/Chock A Block.otf",
+      "sha1": "d8bf1c91cf945d06e14cbd6a7ce7945f2e5834ad"
+    },
+    {
+      "path": "assets/fonts/Emanie.otf",
+      "sha1": "0925ba151a49948e4b39f31420f1849829f56a68"
+    },
+    {
+      "path": "assets/fonts/Kenia-Regular.ttf",
+      "sha1": "3ea358c7d3a96d55bbe8f3eee58bb081ef4e9013"
+    },
+    {
+      "path": "assets/fonts/Milky Honey.otf",
+      "sha1": "a2ef840b098863098291b9f4a73d7b68faa2bbb3"
+    },
+    {
+      "path": "assets/fonts/PlaypenSans-VariableFont_wght.ttf",
+      "sha1": "f48655d41ac7f2f1a0ac9f626371a01c4b8723e2"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "assets/fonts/SWVLittleThings.ttf",
+      "sha1": "9ec1064d1cb5fa4096656a8393bc8a536f4387fe"
+    }
+  ]
+}
